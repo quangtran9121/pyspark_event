@@ -1,0 +1,732 @@
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Retrieved 181 currencies from pycountry.
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: UAE Dirham (AED)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Afghani (AFN)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Lek (ALL)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Armenian Dram (AMD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Netherlands Antillean Guilder (ANG)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Kwanza (AOA)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Argentine Peso (ARS)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Australian Dollar (AUD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Aruban Florin (AWG)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Azerbaijan Manat (AZN)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Convertible Mark (BAM)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Barbados Dollar (BBD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Taka (BDT)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Bulgarian Lev (BGN)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Bahraini Dinar (BHD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Burundi Franc (BIF)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Bermudian Dollar (BMD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Brunei Dollar (BND)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Boliviano (BOB)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Mvdol (BOV)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Brazilian Real (BRL)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Bahamian Dollar (BSD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Ngultrum (BTN)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Pula (BWP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Belarusian Ruble (BYN)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Belize Dollar (BZD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Canadian Dollar (CAD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Congolese Franc (CDF)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: WIR Euro (CHE)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Swiss Franc (CHF)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: WIR Franc (CHW)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Unidad de Fomento (CLF)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Chilean Peso (CLP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Yuan Renminbi (CNY)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Colombian Peso (COP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Unidad de Valor Real (COU)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Costa Rican Colon (CRC)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Peso Convertible (CUC)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Cuban Peso (CUP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Cabo Verde Escudo (CVE)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Czech Koruna (CZK)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Djibouti Franc (DJF)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Danish Krone (DKK)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Dominican Peso (DOP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Algerian Dinar (DZD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Egyptian Pound (EGP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Nakfa (ERN)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Ethiopian Birr (ETB)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Euro (EUR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Fiji Dollar (FJD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Falkland Islands Pound (FKP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Pound Sterling (GBP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Lari (GEL)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Ghana Cedi (GHS)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Gibraltar Pound (GIP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Dalasi (GMD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Guinean Franc (GNF)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Quetzal (GTQ)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Guyana Dollar (GYD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Hong Kong Dollar (HKD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Lempira (HNL)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Kuna (HRK)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Gourde (HTG)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Forint (HUF)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Rupiah (IDR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: New Israeli Sheqel (ILS)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Indian Rupee (INR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Iraqi Dinar (IQD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Iranian Rial (IRR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Iceland Krona (ISK)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Jamaican Dollar (JMD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Jordanian Dinar (JOD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Yen (JPY)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Kenyan Shilling (KES)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Som (KGS)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Riel (KHR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Comorian Franc (KMF)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: North Korean Won (KPW)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Won (KRW)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Kuwaiti Dinar (KWD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Cayman Islands Dollar (KYD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Tenge (KZT)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Lao Kip (LAK)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Lebanese Pound (LBP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Sri Lanka Rupee (LKR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Liberian Dollar (LRD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Loti (LSL)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Libyan Dinar (LYD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Moroccan Dirham (MAD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Moldovan Leu (MDL)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Malagasy Ariary (MGA)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Denar (MKD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Kyat (MMK)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Tugrik (MNT)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Pataca (MOP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Ouguiya (MRU)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Mauritius Rupee (MUR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Rufiyaa (MVR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Malawi Kwacha (MWK)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Mexican Peso (MXN)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Mexican Unidad de Inversion (UDI) (MXV)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Malaysian Ringgit (MYR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Mozambique Metical (MZN)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Namibia Dollar (NAD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Naira (NGN)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Cordoba Oro (NIO)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Norwegian Krone (NOK)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Nepalese Rupee (NPR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: New Zealand Dollar (NZD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Rial Omani (OMR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Balboa (PAB)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Sol (PEN)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Kina (PGK)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Philippine Peso (PHP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Pakistan Rupee (PKR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Zloty (PLN)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Guarani (PYG)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Qatari Rial (QAR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Romanian Leu (RON)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Serbian Dinar (RSD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Russian Ruble (RUB)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Rwanda Franc (RWF)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Saudi Riyal (SAR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Solomon Islands Dollar (SBD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Seychelles Rupee (SCR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Sudanese Pound (SDG)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Swedish Krona (SEK)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Singapore Dollar (SGD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Saint Helena Pound (SHP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Leone (SLE)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Leone (SLL)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Somali Shilling (SOS)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Surinam Dollar (SRD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: South Sudanese Pound (SSP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Dobra (STN)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: El Salvador Colon (SVC)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Syrian Pound (SYP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Lilangeni (SZL)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Baht (THB)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Somoni (TJS)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Turkmenistan New Manat (TMT)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Tunisian Dinar (TND)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Pa’anga (TOP)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Turkish Lira (TRY)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Trinidad and Tobago Dollar (TTD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: New Taiwan Dollar (TWD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Tanzanian Shilling (TZS)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Hryvnia (UAH)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Uganda Shilling (UGX)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: US Dollar (USD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: US Dollar (Next day) (USN)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Uruguay Peso en Unidades Indexadas (UI) (UYI)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Peso Uruguayo (UYU)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Unidad Previsional (UYW)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Uzbekistan Sum (UZS)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Bolívar Soberano (VED)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Bolívar Soberano (VES)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Dong (VND)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Vatu (VUV)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Tala (WST)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: CFA Franc BEAC (XAF)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Silver (XAG)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Gold (XAU)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Bond Markets Unit European Composite Unit (EURCO) (XBA)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Bond Markets Unit European Monetary Unit (E.M.U.-6) (XBB)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Bond Markets Unit European Unit of Account 9 (E.U.A.-9) (XBC)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Bond Markets Unit European Unit of Account 17 (E.U.A.-17) (XBD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: East Caribbean Dollar (XCD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: SDR (Special Drawing Right) (XDR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: CFA Franc BCEAO (XOF)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Palladium (XPD)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: CFP Franc (XPF)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Platinum (XPT)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Sucre (XSU)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Codes specifically reserved for testing purposes (XTS)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: ADB Unit of Account (XUA)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: The codes assigned for transactions where no currency is involved (XXX)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Yemeni Rial (YER)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Rand (ZAR)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Zambian Kwacha (ZMW)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Adding currency: Zimbabwe Dollar (ZWL)
+2025-02-06 08:43:14 - dim_currency_populate - INFO - Successfully inserted 181 new currencies.
+2025-02-06 08:43:14 - dim_currency_populate - INFO - All currencies in the database:
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4c53ad6c0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4c53ac040>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4c53ad720>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4c53ac430>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4c53ad0f0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4c53ad1b0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4c53ad270>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4c53ad330>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4c53ad990>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4c53aca00>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4c53ac940>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4c53ac280>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cc743fd0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cc7422f0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cc742380>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cc7423b0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cc743ee0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cc741ed0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4ccdf2440>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4ccdf24a0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7850>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7970>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7a30>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7af0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5f90>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5ed0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5e10>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6da0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6e60>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6f20>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6fe0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e70a0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7160>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e56c0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6c80>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6bc0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6b00>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6a40>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5c00>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5b40>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5a80>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e59c0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5900>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5840>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5780>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4040>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5600>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5540>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5480>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e53c0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5300>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5240>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5180>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e50c0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5000>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4f40>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4e80>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4dc0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4d00>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4c40>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4b80>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4ac0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4a00>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4940>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4880>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e47c0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4700>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4640>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4580>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e44c0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4400>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4340>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4280>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e41c0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4100>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5cc0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5d80>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5e40>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5f00>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5fc0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6080>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6140>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6200>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e62c0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6380>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6440>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6500>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e65c0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6680>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6740>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6800>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e68c0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6980>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5ab0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5b70>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5c30>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5cf0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7220>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e72e0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e73a0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7460>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7520>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e75e0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e76a0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7760>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7820>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e78e0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e79a0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7a60>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7b20>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7be0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7ca0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7d60>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7e20>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7ee0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7fa0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e40d0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4190>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4250>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4310>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e43d0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4490>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4550>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4610>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e46d0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4790>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4850>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4910>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e49d0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4a90>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4b50>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4c10>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4cd0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4d90>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4e50>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4f10>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e4fd0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5090>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5150>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5210>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e52d0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5390>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5450>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5510>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e55d0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5690>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5750>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5810>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e58d0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5990>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e5a50>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e60b0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6170>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6230>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e62f0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e63b0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6470>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6530>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e65f0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e66b0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6770>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6830>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e68f0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e69b0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6a70>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6b30>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6bf0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6cb0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6d70>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6e30>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6ef0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e6fb0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7070>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7130>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e71f0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e72b0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7370>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7430>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e74f0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e75b0>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x7fe4cb3e7670>
+2025-02-06 08:43:14 - dim_currency_populate - INFO - End func: gen_dim_currency.
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Retrieved 181 currencies from pycountry.
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: UAE Dirham (AED)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Afghani (AFN)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Lek (ALL)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Armenian Dram (AMD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Netherlands Antillean Guilder (ANG)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Kwanza (AOA)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Argentine Peso (ARS)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Australian Dollar (AUD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Aruban Florin (AWG)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Azerbaijan Manat (AZN)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Convertible Mark (BAM)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Barbados Dollar (BBD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Taka (BDT)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Bulgarian Lev (BGN)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Bahraini Dinar (BHD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Burundi Franc (BIF)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Bermudian Dollar (BMD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Brunei Dollar (BND)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Boliviano (BOB)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Mvdol (BOV)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Brazilian Real (BRL)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Bahamian Dollar (BSD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Ngultrum (BTN)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Pula (BWP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Belarusian Ruble (BYN)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Belize Dollar (BZD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Canadian Dollar (CAD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Congolese Franc (CDF)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: WIR Euro (CHE)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Swiss Franc (CHF)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: WIR Franc (CHW)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Unidad de Fomento (CLF)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Chilean Peso (CLP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Yuan Renminbi (CNY)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Colombian Peso (COP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Unidad de Valor Real (COU)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Costa Rican Colon (CRC)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Peso Convertible (CUC)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Cuban Peso (CUP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Cabo Verde Escudo (CVE)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Czech Koruna (CZK)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Djibouti Franc (DJF)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Danish Krone (DKK)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Dominican Peso (DOP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Algerian Dinar (DZD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Egyptian Pound (EGP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Nakfa (ERN)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Ethiopian Birr (ETB)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Euro (EUR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Fiji Dollar (FJD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Falkland Islands Pound (FKP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Pound Sterling (GBP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Lari (GEL)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Ghana Cedi (GHS)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Gibraltar Pound (GIP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Dalasi (GMD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Guinean Franc (GNF)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Quetzal (GTQ)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Guyana Dollar (GYD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Hong Kong Dollar (HKD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Lempira (HNL)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Kuna (HRK)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Gourde (HTG)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Forint (HUF)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Rupiah (IDR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: New Israeli Sheqel (ILS)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Indian Rupee (INR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Iraqi Dinar (IQD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Iranian Rial (IRR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Iceland Krona (ISK)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Jamaican Dollar (JMD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Jordanian Dinar (JOD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Yen (JPY)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Kenyan Shilling (KES)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Som (KGS)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Riel (KHR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Comorian Franc (KMF)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: North Korean Won (KPW)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Won (KRW)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Kuwaiti Dinar (KWD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Cayman Islands Dollar (KYD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Tenge (KZT)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Lao Kip (LAK)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Lebanese Pound (LBP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Sri Lanka Rupee (LKR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Liberian Dollar (LRD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Loti (LSL)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Libyan Dinar (LYD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Moroccan Dirham (MAD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Moldovan Leu (MDL)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Malagasy Ariary (MGA)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Denar (MKD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Kyat (MMK)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Tugrik (MNT)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Pataca (MOP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Ouguiya (MRU)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Mauritius Rupee (MUR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Rufiyaa (MVR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Malawi Kwacha (MWK)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Mexican Peso (MXN)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Mexican Unidad de Inversion (UDI) (MXV)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Malaysian Ringgit (MYR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Mozambique Metical (MZN)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Namibia Dollar (NAD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Naira (NGN)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Cordoba Oro (NIO)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Norwegian Krone (NOK)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Nepalese Rupee (NPR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: New Zealand Dollar (NZD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Rial Omani (OMR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Balboa (PAB)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Sol (PEN)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Kina (PGK)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Philippine Peso (PHP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Pakistan Rupee (PKR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Zloty (PLN)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Guarani (PYG)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Qatari Rial (QAR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Romanian Leu (RON)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Serbian Dinar (RSD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Russian Ruble (RUB)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Rwanda Franc (RWF)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Saudi Riyal (SAR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Solomon Islands Dollar (SBD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Seychelles Rupee (SCR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Sudanese Pound (SDG)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Swedish Krona (SEK)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Singapore Dollar (SGD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Saint Helena Pound (SHP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Leone (SLE)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Leone (SLL)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Somali Shilling (SOS)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Surinam Dollar (SRD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: South Sudanese Pound (SSP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Dobra (STN)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: El Salvador Colon (SVC)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Syrian Pound (SYP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Lilangeni (SZL)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Baht (THB)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Somoni (TJS)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Turkmenistan New Manat (TMT)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Tunisian Dinar (TND)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Pa’anga (TOP)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Turkish Lira (TRY)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Trinidad and Tobago Dollar (TTD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: New Taiwan Dollar (TWD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Tanzanian Shilling (TZS)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Hryvnia (UAH)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Uganda Shilling (UGX)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: US Dollar (USD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: US Dollar (Next day) (USN)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Uruguay Peso en Unidades Indexadas (UI) (UYI)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Peso Uruguayo (UYU)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Unidad Previsional (UYW)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Uzbekistan Sum (UZS)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Bolívar Soberano (VED)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Bolívar Soberano (VES)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Dong (VND)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Vatu (VUV)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Tala (WST)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: CFA Franc BEAC (XAF)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Silver (XAG)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Gold (XAU)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Bond Markets Unit European Composite Unit (EURCO) (XBA)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Bond Markets Unit European Monetary Unit (E.M.U.-6) (XBB)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Bond Markets Unit European Unit of Account 9 (E.U.A.-9) (XBC)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Bond Markets Unit European Unit of Account 17 (E.U.A.-17) (XBD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: East Caribbean Dollar (XCD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: SDR (Special Drawing Right) (XDR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: CFA Franc BCEAO (XOF)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Palladium (XPD)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: CFP Franc (XPF)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Platinum (XPT)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Sucre (XSU)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Codes specifically reserved for testing purposes (XTS)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: ADB Unit of Account (XUA)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: The codes assigned for transactions where no currency is involved (XXX)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Yemeni Rial (YER)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Rand (ZAR)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Zambian Kwacha (ZMW)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Adding currency: Zimbabwe Dollar (ZWL)
+2025-02-26 11:24:51 - dim_currency_populate - INFO - Successfully inserted 181 new currencies.
+2025-02-26 11:24:51 - dim_currency_populate - INFO - All currencies in the database:
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1150>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c10f0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1cf0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1c90>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1c30>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1bd0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1b70>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1b10>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1ab0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1900>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c18a0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1840>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c17e0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1780>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1720>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c16c0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1660>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1600>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c15a0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1540>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c14e0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1480>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1420>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c13c0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1360>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0370>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0e50>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0df0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0d90>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0d30>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0ac0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0a60>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0a00>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c09a0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0820>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c07c0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0760>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0700>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c06a0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0640>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c05e0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0580>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c00d0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0130>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0190>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c01f0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c03d0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1e40>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1ed0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1f00>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0f10>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0f70>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c11e0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1240>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1300>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1960>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c19c0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1a20>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c1000>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0550>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0400>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f7a9c0490>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8940>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc88e0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8880>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc89d0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8a30>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8a90>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca350>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca3b0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca410>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca470>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca4d0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca530>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca590>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dcb1f0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dcb250>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dcb2b0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dcb310>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dcb970>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dcb9d0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dcbd30>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dcbd90>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dcb820>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8820>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc87c0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8760>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8700>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc86a0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8640>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc85e0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8580>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8520>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc84c0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8460>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8400>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8070>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc80d0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8130>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8190>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc81f0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8250>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc82b0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8310>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8370>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8ac0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8b50>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8bb0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8c10>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8c70>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8cd0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8d30>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8d90>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8df0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8e50>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8eb0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8f10>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8f70>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9000>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9060>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc90c0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9120>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9180>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc91e0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9240>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc92a0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9300>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9360>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc93c0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9420>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9480>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc94e0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9540>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc95a0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9600>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc8af0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc96c0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9720>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9780>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc97e0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9840>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc98a0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9900>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9960>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc99c0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9a20>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9a80>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9ae0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9b40>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9ba0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9c00>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9c60>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9cc0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9d20>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9d80>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9de0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9e40>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9ea0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9f00>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9f60>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9fc0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca020>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca080>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca0e0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca140>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dc9660>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca200>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca260>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca2c0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca5f0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca650>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca6b0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca710>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca770>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca7d0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca830>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca890>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca8f0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca950>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dca9b0>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - <models.common_dim.DimCurrency object at 0x718f82dcaa10>
+2025-02-26 11:24:51 - dim_currency_populate - INFO - End func: gen_dim_currency.

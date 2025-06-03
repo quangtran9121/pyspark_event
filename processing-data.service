@@ -1,0 +1,17 @@
+[Unit]
+Description=Run Conda Environment Pyspark Processing
+After=network.target
+
+[Service]
+WorkingDirectory=/home/pyspark_event
+ExecStart=/root/miniconda3/envs/airflow/bin/python /home/pyspark_event/main.py
+Restart=always
+Environment="PATH=/root/miniconda3/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+TimeoutStopSec=600
+MemoryMax=16G  
+CPUQuota=800%  
+CPUShares=8192 
+
+[Install]
+WantedBy=multi-user.target
+

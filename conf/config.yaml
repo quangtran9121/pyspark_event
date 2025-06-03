@@ -1,0 +1,18 @@
+event:
+  app_name: GameEventsETL
+  kafka_bootstrap_servers: 207.148.76.77:9092
+  kafka_topic_pattern: topic_game*
+  kafka_security_protocol: SASL_PLAINTEXT
+  kafka_sasl_mechanism: PLAIN
+  postgres_driver: org.postgresql.Driver
+  clickhouse_driver: com.clickhouse.jdbc.ClickHouseDriver
+  num_process: 1000000
+  num_partition: 10
+  batch_duration: 10
+  spark_jars_packages: org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.3
+  postgres_resource: resources/driver/postgresql-42.7.4.jar
+  clickhouse_resource: resources/driver/clickhouse-client-0.7.2.jar
+  stag_checkpoint_path: resources/checkpoint_stag
+  prod_checkpoint_path: resources/checkpoint_prod
+  checkpoint_path: resources/checkpoint
+  logs_path: logs
